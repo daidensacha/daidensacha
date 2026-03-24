@@ -31,4 +31,4 @@ My focus is on React, Next.js, and structured full-stack development.
 
 ## Contact
 
-- LinkedIn: (your link)
+- [(LinkedIn:)](https://www.linkedin.com/in/daidensacha/)
