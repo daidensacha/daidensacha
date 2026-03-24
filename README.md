@@ -24,8 +24,8 @@ My focus is on React, Next.js, and structured full-stack development.
 
 ## Selected projects
 
-- [Garden Almanac](https://github.com/daidensacha/almanac-client)  
-- (add 1–2 more later)
+- [Garden Almanac: Client](https://github.com/daidensacha/almanac-client)  
+
 
 ---
 
