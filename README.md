@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I’m Daiden
 
-<!--
-**daidensacha/daidensacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications and learn by doing.
 
-Here are some ideas to get you started:
+My focus is on React, Next.js, and structured full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I do
+
+- Build and refine full-stack applications  
+- Work with React, Node.js, and modern tooling  
+- Focus on clarity, structure, and long-term maintainability  
+
+---
+
+## Currently
+
+- Developing personal projects to deepen practical experience  
+- Exploring Next.js, TypeScript, and deployment workflows  
+- Building a portfolio to present work clearly and without noise  
+
+---
+
+## Selected projects
+
+- [Garden Almanac](https://github.com/daidensacha/almanac-client)  
+- (add 1–2 more later)
+
+---
+
+## Contact
+
+- LinkedIn: (your link)
