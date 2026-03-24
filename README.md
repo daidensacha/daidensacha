@@ -2,7 +2,7 @@
 
 I build web applications and learn by doing.
 
-My focus is on React, Next.js, and structured full-stack development.
+Focused on React, Next.js, and structured full-stack development.
 
 ---
 
@@ -16,7 +16,7 @@ My focus is on React, Next.js, and structured full-stack development.
 
 ## Currently
 
-- Developing personal projects to deepen practical experience  
+- Building personal projects to deepen practical experience  
 - Exploring Next.js, TypeScript, and deployment workflows  
 - Building a portfolio to present work clearly and without noise  
 
